@@ -9,7 +9,7 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>宜未雨而绸缪，勿临渴而掘井</description>
-    <pubDate>Sat, 07 Oct 2023 16:36:19 GMT</pubDate>
+    <pubDate>Sat, 07 Oct 2023 18:02:47 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -29,7 +29,15 @@
       
       
       
-      <category domain="http://example.com/tags/%E8%AE%BF%E9%97%AE%E9%80%9F%E5%BA%A6-%E4%BC%98%E5%8C%96-neat-%E5%8E%8B%E7%BC%A9-%E6%87%92%E5%8A%A0%E8%BD%BD/">访问速度,优化,neat,压缩,懒加载</category>
+      <category domain="http://example.com/tags/%E8%AE%BF%E9%97%AE%E9%80%9F%E5%BA%A6/">访问速度</category>
+      
+      <category domain="http://example.com/tags/%E4%BC%98%E5%8C%96/">优化</category>
+      
+      <category domain="http://example.com/tags/neat/">neat</category>
+      
+      <category domain="http://example.com/tags/%E5%8E%8B%E7%BC%A9/">压缩</category>
+      
+      <category domain="http://example.com/tags/%E6%87%92%E5%8A%A0%E8%BD%BD/">懒加载</category>
       
       
       <comments>http://example.com/2023/10/07/optimize/#disqus_thread</comments>
