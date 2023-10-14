@@ -39,6 +39,16 @@
     
     
     
+    <tags>
+      
+      <tag>访问速度</tag>
+      
+      <tag>优化</tag>
+      
+      <tag>4everland</tag>
+      
+    </tags>
+    
   </entry>
   
   
@@ -51,6 +61,12 @@
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>欢迎来到我的博客！这是一个测试。</p>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>测试</tag>
+      
+    </tags>
     
   </entry>
   

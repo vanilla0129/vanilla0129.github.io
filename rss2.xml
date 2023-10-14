@@ -61,6 +61,12 @@
       
       
       
+      <category domain="http://example.com/tags/%E8%AE%BF%E9%97%AE%E9%80%9F%E5%BA%A6/">访问速度</category>
+      
+      <category domain="http://example.com/tags/%E4%BC%98%E5%8C%96/">优化</category>
+      
+      <category domain="http://example.com/tags/4everland/">4everland</category>
+      
       
       <comments>http://example.com/2023/10/04/youhua/#disqus_thread</comments>
       
@@ -82,6 +88,8 @@
       <content:encoded><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>欢迎来到我的博客！这是一个测试。</p>]]></content:encoded>
       
       
+      
+      <category domain="http://example.com/tags/%E6%B5%8B%E8%AF%95/">测试</category>
       
       
       <comments>http://example.com/2023/10/03/NEW/#disqus_thread</comments>
