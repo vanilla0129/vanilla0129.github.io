@@ -44,6 +44,12 @@
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="搭建博客"><a href="#搭建博客" class="headerlink" title="搭建博客"></a>搭建博客</h2><p>这几天我在网上学到了如何搭建个人博客。搭建博客最需要的是什么呢？唯一需要的就是耐心和坚持，在遇到问题的时候查阅相关资料，虽然有时候半天也没有解决但是问题解决的那一刻令人十分喜悦的。相关<br>文章我放到了末尾，有兴趣的朋友可以了解一下。</p><h2 id="关于优化"><a href="#关于优化" class="headerlink" title="关于优化"></a>关于优化</h2><p>在搭建完博客以后我发现访问速度特别慢，具体原因是因为我们将Hexo博客利用官方的GithubPage来免费部署静态博客，但是GithubPage实在是太慢了。</p><p>我在网上查阅了很多关于优化博客访问速度的资料，但是有的方案繁琐、有的方案复杂，还有的因为时间原因下载的插件版本过高，一些原来的函数在新版本不适用。结果就是频繁报错，即使安装旧版本依然会因为各种问题而停止。但是一篇关于加速博客的文章为我找到了一个解决方法。原理是访问”<a href="https://hosting.4everland.org/#/?invite=XNJRVZFH">https://hosting.4everland.org/#/?invite=XNJRVZFH</a>“<br>选择Github账号登陆后再创建新项目，将Hexo部署到这个网站上，接着绑定自己的域名就可以提高访问速度啦！</p><p>打开网站需要加载很长的时间，等网站加载完耐心也没了。所以我意识到一个问题，仅从功能性的角度出发优不优化确实无关紧要，但要考虑实用性就必须过优化这一关。市面上多少产品上架之后因为优化问题收获了很多差评，比如游戏行业，厂商优化不过关，玩家就不能正常体验游戏。毕竟不是人人都有4090的（）要想赚更多的钱就得考虑中低配设备。先不说游戏内容如何，连游戏都不能打开或者游玩十分卡顿，谁玩了这种游戏都会窝火（扯远了）。</p><p>回到正题，关于博客的优化我也还在学习当中，这个博客也是跟着一个大佬一步步做的。相信我以后还能学到更多东西！</p><p>参考文章：<br><a href="https://juejin.cn/post/7009209925024874526">博客加速</a><br><a href="https://zhuanlan.zhihu.com/p/102592286">从零搭建个人博客</a></p>]]></content>
     
     
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
     
     <tags>
       
