@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://vanilla0129.top/playlist/index.html</loc>
+    
+    <lastmod>2023-10-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://vanilla0129.top/2023/10/04/youhua/</loc>
     
     <lastmod>2023-10-15</lastmod>
@@ -32,15 +41,6 @@
     <loc>https://vanilla0129.top/2023/10/03/NEW/</loc>
     
     <lastmod>2023-10-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://vanilla0129.top/playlist/index.html</loc>
-    
-    <lastmod>2023-10-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
