@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://vanilla0129.top/2023/10/07/optimize/</loc>
+    
+    <lastmod>2023-10-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://vanilla0129.top/playlist/index.html</loc>
     
     <lastmod>2023-10-15</lastmod>
@@ -92,13 +101,6 @@
 
   
   <url>
-    <loc>https://vanilla0129.top/tags/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2023-10-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://vanilla0129.top/tags/%E8%AE%BF%E9%97%AE%E9%80%9F%E5%BA%A6/</loc>
     <lastmod>2023-10-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -114,6 +116,34 @@
   
   <url>
     <loc>https://vanilla0129.top/tags/4everland/</loc>
+    <lastmod>2023-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanilla0129.top/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2023-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanilla0129.top/tags/neat/</loc>
+    <lastmod>2023-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanilla0129.top/tags/%E5%8E%8B%E7%BC%A9/</loc>
+    <lastmod>2023-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanilla0129.top/tags/%E6%87%92%E5%8A%A0%E8%BD%BD/</loc>
     <lastmod>2023-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
