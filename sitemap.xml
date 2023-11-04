@@ -4,7 +4,7 @@
   <url>
     <loc>https://vanilla0129.top/playlist/index.html</loc>
     
-    <lastmod>2023-10-15</lastmod>
+    <lastmod>2023-11-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,16 @@
   <url>
     <loc>https://vanilla0129.top/2023/10/07/optimize/</loc>
     
-    <lastmod>2023-10-15</lastmod>
+    <lastmod>2023-11-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanilla0129.top/2023/10/27/blog/</loc>
+    
+    <lastmod>2023-11-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -106,13 +115,6 @@
   </url>
   
   <url>
-    <loc>https://vanilla0129.top/tags/4everland/</loc>
-    <lastmod>2023-11-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://vanilla0129.top/tags/neat/</loc>
     <lastmod>2023-11-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -135,6 +137,13 @@
   
   <url>
     <loc>https://vanilla0129.top/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2023-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanilla0129.top/tags/4everland/</loc>
     <lastmod>2023-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
