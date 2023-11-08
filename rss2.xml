@@ -9,8 +9,33 @@
     <atom:link href="https://vanilla0129.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>宜未雨而绸缪，勿临渴而掘井</description>
-    <pubDate>Sun, 05 Nov 2023 07:08:23 GMT</pubDate>
+    <pubDate>Wed, 08 Nov 2023 04:43:22 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>基本声明</title>
+      <link>https://vanilla0129.top/2023/11/08/declaration/</link>
+      <guid>https://vanilla0129.top/2023/11/08/declaration/</guid>
+      <pubDate>Wed, 08 Nov 2023 04:38:58 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;此站仅用作学习交流使用，不参与任何商业活动，有参考及借鉴均注明出处，可以点击链接跳转到对应网页&lt;/p&gt;
+</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>此站仅用作学习交流使用，不参与任何商业活动，有参考及借鉴均注明出处，可以点击链接跳转到对应网页</p>]]></content:encoded>
+      
+      
+      <category domain="https://vanilla0129.top/categories/%E5%85%B6%E4%BB%96/">其他</category>
+      
+      
+      
+      <comments>https://vanilla0129.top/2023/11/08/declaration/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>fluid主题添加音乐播放器</title>
